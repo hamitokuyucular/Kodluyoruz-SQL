@@ -1,5 +1,5 @@
 ## Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
-### query 1
+#### query 1
 film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 
 ### query 2
