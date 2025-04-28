@@ -1,5 +1,6 @@
 ## KODLUYORUZ-SQL
-### (KODLUYORUZ-SQL-1) Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
+### (KODLUYORUZ-SQL-1) 
+    Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 #### query 1
 - film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 #### query 2
