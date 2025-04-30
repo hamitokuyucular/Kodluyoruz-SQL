@@ -65,3 +65,10 @@
 - query 1: city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz LEFT JOIN sorgusunu yazınız.
 - query 2: customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz RIGHT JOIN sorgusunu yazınız.
 - query 3: customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz FULL JOIN sorgusunu yazınız.
+-------------
+### KODLUYORUZ-SQL-11
+### Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
+- query 1: actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
+- query 2: actor ve customer tablolarında bulunan first_name sütunları için kesişen verileri sıralayalım.
+- query 3: actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
+- query 4: İlk 3 sorguyu tekrar eden veriler için de yapalım.
